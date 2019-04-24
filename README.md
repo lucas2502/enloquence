@@ -6,8 +6,7 @@ Objetivo:
 
 
 # Conteúdo do Livro
--Introdução
-
+0. Introdução
 1. Valores, Tipos e Operadores - (Parte 1: Linguagem)
 2. Estrutura do Programa
 3. Funções
@@ -37,6 +36,6 @@ Objetivo:
 # Informações Importantes
 - Autor: Marijn Haverbeke
 - Versão original deste livro.
-- icenciado sob a licença Creative Commons attribution-noncommercial.
+- Licenciado sob a licença Creative Commons attribution-noncommercial.
 
 Todo código neste livro também pode ser considerado sob a licença MIT.
