@@ -1,0 +1,22 @@
+{
+  "name": "enloquence",
+  "version": "1.0.0",
+  "description": "Estudo baseado no livro enloquence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas2502/enloquence.git"
+  },
+  "author": "LucasGonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas2502/enloquence/issues"
+  },
+  "homepage": "https://github.com/lucas2502/enloquence#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
